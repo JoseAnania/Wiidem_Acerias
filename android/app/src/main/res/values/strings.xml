@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WiidemAcerias</string>
+    <string name="title_activity_main">WiidemAcerias</string>
+    <string name="package_name">com.wiidem.acerias</string>
+    <string name="custom_url_scheme">com.wiidem.acerias</string>
+</resources>

@@ -1677,7 +1677,7 @@ export default function Home() {
       </main>
       
       <footer className="py-4 text-center w-full">
-        <p className="text-xs text-muted-foreground">Optimized for horizontal mobile view</p>
+        <p className="text-xs text-muted-foreground">Desarrollado por <strong>datSolutions S.A.S.</strong></p>
       </footer>
     </div>
   );
